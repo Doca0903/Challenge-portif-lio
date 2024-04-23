@@ -1,0 +1,346 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    background-color: #F5F5F5;
+    font-family: Raleway;
+    width: 1440px;
+    height: 5020px;
+    top: 481px;
+    left: -1311px;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    gap: 300%;
+    width: (1,136px)px;
+    height: Hug (88px)px;
+}
+
+.cabecalho_todo {
+    display: flex;
+    width: Hug (134px)px;
+    height: Hug (30px)px;
+    gap: 8px;
+    padding: 16px, 32px, 16px, 32px;
+    margin: 0% 0% 0% 15%;
+}
+
+.Imagem_estrelas {
+    height: 40px;
+    width: 40px;
+}
+
+.rodape {
+    background-color: #F5F5F5;
+    color: #464646;
+    font-family: Raleway;
+    font-size: 12px;
+    font-weight: 400;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 24px;
+}
+
+.conteudo {
+    margin: 5% 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1136px;
+    height: 368px;
+}
+
+.titulo {
+    font-weight: 700;
+    font-size: 52px;
+    width: 751px;
+    height: 122px;
+    line-height: 61.05px;
+    color: #464646;
+}
+
+.apresentacao__conteudo {
+    width: Fixed (751px)px;
+    height: Hug (246px)px;
+    gap: 24px;
+    opacity: 0px;
+}
+
+.texto {
+    width: 751px;
+    height: 52px;
+    font-family: Raleway;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 25.83px;
+    text-align: left;
+    color: #464646;
+}
+.apresentacao__links {
+    width: 467px;
+    height: 24px;
+    gap: 32px;
+    
+}
+
+.links {
+    width: 64px;
+    height: 19px;
+    gap: 32px;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 500;
+    color: #464646;
+    text-decoration: none;
+}
+
+.Imagem {
+    width: 400px;
+    height: 400px;
+}
+
+.conteudo__dois {
+    width: 1440px;
+    height: Hug (383px)px;
+    gap: 10px;
+    background-color: #EAF2FD;
+    color: #464646;
+    padding: 64px;
+}
+
+.sobremim {
+    width: 1136px;
+    height: Hug (255px)px;
+    gap: 16px;
+    margin-left: 11%;
+}
+
+.titulo_secundario {
+    width: 166px;
+    height: 38px;
+}
+
+.conteudo__tres {
+    width: Hug (1,136px)px;
+    height: Hug (244px)px;
+    gap: 32px;
+}
+
+.titulo_terciario {
+    height: 38px;
+    font-family: Raleway;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 37.57px;
+    color: #464646;
+    display: flex;
+    justify-content: center;
+}
+
+.imagens__skills {
+    height: Hug (174px)px;
+    gap: 16px;
+    display: flex;
+    justify-content: center;
+    padding: 16px, 32px, 16px, 32px;
+
+}
+
+.Skills {
+    width: Fixed (176px)px;
+    height: Fixed (174px)px;
+    padding: 16px 0px 0px 0px;
+    gap: 8px;
+}
+
+.conteudo__quatro {
+    width: Hug (1,136px)px;
+    height: Hug (244px)px;
+    gap: 32px;   
+
+}
+
+.titulo__quartenario {
+    height: 38px;
+    font-family: Raleway;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 37.57px;
+    color: #464646;
+    display: flex;
+    justify-content: center;
+}
+
+.imagens__hobbies {
+    width: Hug (1,136px)px;
+    height: Hug (174px)px;
+    gap: 16px;
+    display: flex;
+    justify-content: center;
+}
+
+.Hobbies {
+    width: Fixed (176px)px;
+    height: Fixed (174px)px;
+    padding: 16px 0px 0px 0px;
+    gap: 8px;
+}
+
+.conteudo__formacao {
+    width: Fill (1,440px)px;
+    height: Hug (581px)px;
+    padding: 82px 0px 0px 0px;
+    gap: 32px;
+}
+
+.titulo__formacao {
+    height: 38px;
+    font-family: Raleway;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 37.57px;
+    color: #464646;
+    display: flex;
+    justify-content: center;
+}
+
+.imagem_formacao {
+   /* width: Hug (1,136px)px;
+    height: Hug (347px)px;*/
+    gap: 16px;
+    display: flex;
+    justify-content: center;
+}
+
+.formacao {
+    width: 250px;
+    height: 250px;
+    gap: 8px;
+}
+
+.texto__fromacoes {
+    height: 20px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 37.57px;
+    color: #464646;
+    display: flex;
+    justify-content: center;
+}
+
+.conteudo__cinco {
+    width: Hug (1,136px)px;
+    height: Hug (1,886px)px;
+    gap: 32px;
+    margin-top: 100px;
+}
+
+.quinto__titulo {
+    height: 38px;
+    font-family: Raleway;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 37.57px;
+    color: #464646;
+    display: flex;
+    justify-content: center;
+}
+
+.Imagem__itens {
+    width: Hug (1,136px)px;
+    height: Hug (1,816px)px;
+    gap: 64px;
+    display: flex;
+    margin-left: 15%;
+}
+
+.conteudo__contato {
+    width: 1500px;
+    height: 660px;
+    gap: 16px;
+    background-color: #EAF2FD;
+    color: #464646;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+}
+
+.conteudo__seis {
+    width: Fill (656px)px;
+    height: Hug (400px)px;
+    gap: 32px;
+}
+
+.form {
+    padding: 18px;
+}
+
+.form-content {
+    position: relative;
+    gap: 32px;
+}
+
+.form-content label {
+    display: inline-block;
+    margin-top: 4px;
+}
+
+.form-content input {
+    display: block;
+    width: 656px;
+    height: 56px;
+    border: none;
+    background-color: #F5F5F5;
+}
+
+.form-content a{
+   visibility: hidden;
+}
+
+
+.form-content button{
+    background-color:  #2A7AE4;
+    color: #F5F5F5;
+    border: none;
+    width:  165px;
+    height: 51px;
+    padding: 16px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 14px;
+    font-weight: 400;
+}
+
+.form-content.error input{
+    border-color: red;    
+}
+
+.form-content.error a{
+    color: red;
+    visibility: visible;
+}
+
+@media (min-width: 834px) {
+    .body{
+        width: 768px;
+        height: 4379px;
+        top: 481px;
+        left: 262px;
+    }
+
+    .conteudo {
+        width: Fill (768px)px;
+        height: Hug (210px)px;
+        padding: 32px 0px 0px 0px;
+        gap: 32px;
+    }
+
+    .imagem {
+        width: 146px;
+        height: 146px;
+    }
+}
